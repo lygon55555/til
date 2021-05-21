@@ -2,13 +2,13 @@
 
 ## 2.2 Console Log
 
-print() : 출력하려는 인스턴스의 description 프로퍼티에 해당하는 내용 출력
-dump() : 출력하려는 인스턴스의 자세한 내부 콘텐츠까지 출력
+print() : 출력하려는 인스턴스의 description 프로퍼티에 해당하는 내용 출력  
+dump() : 출력하려는 인스턴스의 자세한 내부 콘텐츠까지 출력  
 문자열 보간법 - "\(변수 또는 상수)"
 
 ## 2.3 주석
 
-마크업 문법을 사용해서 작성하면 Xcode의 Quick Help로 통해서 주석을 볼 수 있음
+마크업 문법을 사용해서 작성하면 Xcode의 Quick Help로 통해서 주석을 볼 수 있음  
 → Markup Formatting Reference
 
 중첩 주석
