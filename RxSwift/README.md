@@ -13,3 +13,4 @@
 |06|🧫 [Filtering Operators](https://github.com/lygon55555/til/blob/main/RxSwift/06.%20Filtering%20Operators.md)|소스 Observable로부터 요소를 선택적으로 방출하는 연산자<br/>`ignoreElements`, `elementAt`, `filter`<br/>`skip`, `skipWhile`, `skipUntil`<br/>`take`, `takeWhile`, `takeUntil`, `takeLast`<br/>`single`, `distinctUntilChanged`, `debounce`, `throttle`|
 |07|💱 [Transforming Operators](https://github.com/lygon55555/til/blob/main/RxSwift/07.%20Transforming%20Operators.md)|Observable에 의해 방출된 요소들을 변형하는 연산자|
 |08|Combining Operators|Operators that work with multiple source Observables to create a single Observable|
+|09|Conditional Operators|Operators that evaluate one or more Observables or items emitted by Observables|
