@@ -1,5 +1,7 @@
 # 코스모스 (Cosmos) - 칼 세이건 (Carl Edward Sagan)
 
+![img](https://user-images.githubusercontent.com/39911797/134222329-7213a0b5-a7f5-44e5-89e6-1e93e71ea02e.jpg)
+
 > 앤 드루얀을 위하여  
 공간의 광막함과 시간의 영겁에서  
 행성 하나와 찰나의 순간을  
