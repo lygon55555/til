@@ -8,6 +8,8 @@
 Star Forming Region: NGC 3324 In Carina Nebula
 </p>
 
+</br>
+
 > 앤 드루얀을 위하여  
 공간의 광막함과 시간의 영겁에서  
 행성 하나와 찰나의 순간을  
