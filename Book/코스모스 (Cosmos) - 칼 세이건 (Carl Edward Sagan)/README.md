@@ -1,6 +1,8 @@
 # 코스모스 (Cosmos) - 칼 세이건 (Carl Edward Sagan)
 
-![STSCI-J-p22031a-4000px](https://user-images.githubusercontent.com/39911797/179417131-4fdaceca-9b24-4b1c-b03c-0269002ef9bd.jpeg)
+|![STSCI-J-p22031a-4000px](https://user-images.githubusercontent.com/39911797/179417131-4fdaceca-9b24-4b1c-b03c-0269002ef9bd.jpeg)|
+|:--:|
+|<b>Star Forming Region: NGC 3324 In Carina Nebula<b>|
 
 > 앤 드루얀을 위하여  
 공간의 광막함과 시간의 영겁에서  
